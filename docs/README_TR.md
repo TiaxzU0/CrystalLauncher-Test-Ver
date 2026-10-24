@@ -1,3 +1,5 @@
+##CrystalLauncher
+
 CrystalLauncher, bir Freesm(Prism) launcher forku birşeyleri denemek bozmak için, yani deneme tahtası gibi :D ... 
 
 
@@ -8,7 +10,7 @@ Tahmini yapılması düşünülen(inşallah)
 
 -Küçük arayüz rengi değiştirmek
 
--Logo değişikliği(Onuda becerirsem)
+-Logo değişikliği(Onuda becerirsem- Yapay zekaya salıcam glb .d)
 
 
 
