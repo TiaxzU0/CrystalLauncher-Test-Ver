@@ -16,7 +16,7 @@ Based on Prism Launcher **11.1.0**
 <strong>English</strong> | <a style="color:#f5c2e7" href="./README_ru.md">Русский</a>
 </p>
 
-CrystalLauncher Reposunun README dosyası| [Türkçe](./README_TR.md)
+CrystalLauncher'ın README dosyası| [Türkçe](./README_TR.md)
 
 <div>
 
