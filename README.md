@@ -9,4 +9,4 @@ Deneysel(test) aşamasında hem de daha başlanmadı, yani bekliyor.
 **-Bu fork/repo orijinal Freesm ve Prism Launcher geliştiricilerle bağlantısı yoktur**
 
 ## Planlanan Özellikler (Boş şimdilik)
-
+*Aslında bu (./README_TR.md) dosyada var ama yarım duruyor.*
